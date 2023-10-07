@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Variety
+Comment=Variety Wallpaper Changer
+Categories=GNOME;GTK;Utility;
+Exec=/bin/bash -c "sleep 20 && /nix/store/q71hk00nh7mfkz69s07i6sgjgb64da2g-variety-0.8.10/bin/variety --profile /home/tolga/.config/variety/"
+MimeType=text/uri-list;x-scheme-handler/variety;x-scheme-handler/vrty;
+Icon=variety
+Terminal=false
+Type=Application
+StartupNotify=false
+Actions=Next;Previous;PauseResume;History;Preferences;
+Keywords=Wallpaper;Changer;Change;Download;Downloader;Variety;
+StartupWMClass=Variety
